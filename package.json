@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "ts-node",
+    "build": "tsc"
+  }
+} 
