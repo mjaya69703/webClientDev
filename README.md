@@ -15,9 +15,17 @@ Introduction to JavaScript and TypeScript programming with basic calculation tas
 - Date Difference Calculator
 - Name Initials Generator
 
+### [Task 02 - Basic JavaScript/TypeScript Programming](./task-02)
+Basic programming tasks implemented in both JavaScript and TypeScript:
+- Temperature Converter
+- Distance Converter
+- Number Checker
+- String Remover
+- Palindrome Checker
+
 ### Future Tasks
-- Task 02 (Coming Soon)
 - Task 03 (Coming Soon)
+- Task 04 (Coming Soon)
 - ...
 
 ### Prerequisites
